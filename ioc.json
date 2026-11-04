@@ -1,0 +1,27 @@
+{
+  "version": "2026-11-04",
+  "source": "https://gist.github.com/MotherSphere/d6c049a09ba8ac3085c51ee9df24a4e5 (보고서 및 댓글 제보 기준, 비공식)",
+  "ClsidPath": "HKCU:\\Software\\Classes\\CLSID\\{E77CC89B-7401-4C04-8CED-149DB35ADD04}",
+  "Domains": [
+    "insightjs.com",
+    "analytics.insightjs.com",
+    "insightjs.org"
+  ],
+  "BlockIPs": [
+    "89.127.233.127",
+    "89.126.250.172"
+  ],
+  "LogNeedles": [
+    "k2f_chan",
+    "agent started as",
+    "k2f.lua"
+  ],
+  "StateNeedle": "k2f.agent",
+  "LoaderKey": "insightjs.com/l.js",
+  "BadEtags": [
+    "50d1861152ea7f6875ffceb7d08445b5",
+    "481e9b5ab8fb93406bf31980b53e0578",
+    "b7d842200372ad0d9a84ef4cc8511311",
+    "dd06875637a29cddd3bae2ba84142c78"
+  ]
+}
