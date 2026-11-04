@@ -23,5 +23,18 @@
     "481e9b5ab8fb93406bf31980b53e0578",
     "b7d842200372ad0d9a84ef4cc8511311",
     "dd06875637a29cddd3bae2ba84142c78"
+  ],
+  "CodeCacheLoaderFiles": {
+    "dd65fa4d61079e7e_0": "aegis",
+    "ce2fd3f1007a9fe9_0": "images",
+    "1416c638b3830103_0": "feedlist",
+    "fd520c7c0f65c2d7_0": "vue"
+  },
+  "BundleEtags": [
+    "6ae78037-3214f",
+    "6ae8ccff-3214f",
+    "6ae90538-3214f",
+    "6ae9d408-3214f",
+    "6ae9f628-3214f"
   ]
 }
